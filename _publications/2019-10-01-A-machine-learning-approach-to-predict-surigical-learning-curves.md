@@ -8,8 +8,8 @@ venue: 'Surgery'
 paperurl: 'http://academicpages.github.io/files/LearningCurvePrediction.pdf'
 citation: 'Gao, Y., Kruger, U., Schwaitzberg, S., Intes, X., De, S. (2019). &quot;A Machine Learning approach to predict surgical learning curves.&quot; <i>Surgery</i>. Accepted.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the learning curve prediction.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/LearningCurvePrediction.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Gao, Y., Kruger, U., Schwaitzberg, S., Intes, X., De, S. (2019). "Machine Learning approach to predict surgical learning curves." <i>Surgery 1</i>. Accepted.
