@@ -5,7 +5,7 @@ permalink: /publication/2019-10-01-A-machine-learning-approach-to-predict-surigi
 excerpt: 'This paper is about the learning curve prediction.'
 date: 2019-10-01
 venue: 'Surgery'
-paperurl: 'http://academicpages.github.io/files/LearningCurvePrediction.pdf'
+paperurl: 'http://yuanyuangao216.github.io/files/LearningCurvePrediction.pdf'
 citation: 'Gao, Y., Kruger, U., Schwaitzberg, S., Intes, X., De, S. (2019). &quot;A Machine Learning approach to predict surgical learning curves.&quot; <i>Surgery</i>. Accepted.'
 ---
 This paper is about the learning curve prediction.
