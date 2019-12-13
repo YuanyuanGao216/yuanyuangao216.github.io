@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aircraft Environment and Life Security Engineering, Beihang University, 2010
+* M.S. in Mechanical Engineering, Beihang University, 2013
+* Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2020 (expected)
+
+Research experience
+======
+* 2015 – Present: Research Assistant
+  * Rensselaer Polytechnic Institute
+  * Supervisor: Professor Suvranu De
+
+* 2018 - 2019: Visiting scholar
+  * University of Buffalo 
+  * Duties included: Neuromodulation and neuroimaging experiments
+  * Supervisor: Professor Lora Cavuoto and Dr. Steven Schwaitzberg
+
+* 2016: Researcher
+  * Harvard Medical School
+  * Duties included: Neuromodulation experiments
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2013 - June 2015: Motor design engineer 
+  * SAIC MOTOR (Shanghai)
+  * Duties included: IP parts design
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: Python, C/C++/C#, VB, SQL; 
+* Statistical tools: Matlab, SPSS, Minitab, G*Power; 
+* Computer aided design/engineering: Solidworks, CATIA, autoCAD, ANSYS, NX, CFD; 
+* Operating systems: Windows, Linux (Ubuntu) and Mac OS;
+* Hardware: fNIRS spectrometers; Trans-cranial electrical stimulation device; Laparoscopic skill trainer;
+* Others: Microsoft Office Series, Latex.
+
 
 Publications
 ======
