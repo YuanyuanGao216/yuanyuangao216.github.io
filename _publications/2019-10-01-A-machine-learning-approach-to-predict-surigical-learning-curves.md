@@ -10,6 +10,6 @@ citation: 'Gao, Y., Kruger, U., Schwaitzberg, S., Intes, X., De, S. (2019). &quo
 ---
 This paper is about the learning curve prediction.
 
-[Download paper here](http://academicpages.github.io/files/LearningCurvePrediction.pdf)
+[Download paper here](http://yuanyuangao216.github.io/files/LearningCurvePrediction.pdf)
 
 Recommended citation: Gao, Y., Kruger, U., Schwaitzberg, S., Intes, X., De, S. (2019). "Machine Learning approach to predict surgical learning curves." <i>Surgery 1</i>. Accepted.
