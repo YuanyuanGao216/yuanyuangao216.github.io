@@ -1,6 +1,6 @@
 ---
 title: "Project 2: Predicting surgical skills from fNIRS via deep learning models"
-excerpt: "Predicting surgical skills from fNIRS via deep learning models<br/><img src='/images/gao_new.pdf'>"
+excerpt: "Predicting surgical skills from fNIRS via deep learning models<br/><img src='/images/gao_new.png'>"
 collection: portfolio
 ---
 
