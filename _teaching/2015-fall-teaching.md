@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-fall-teaching
 venue: "Rensselear Polytechnic Institute, Department of Mechanical Aerospace, and Nuclear Engineering"
-date: 2015, Fall
+date: 2015-09-01
 location: "Troy, New York"
 ---
 

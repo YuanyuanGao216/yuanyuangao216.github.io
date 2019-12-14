@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2017-spring-teaching
 venue: "Rensselear Polytechnic Institute, School of Engineering"
-date: 2017, Spring
+date: 2017-01-01
 location: "Troy, New York"
 ---
 

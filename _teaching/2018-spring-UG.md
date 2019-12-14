@@ -4,7 +4,7 @@ collection: teaching
 type: "Mentoring"
 permalink: /teaching/2018-spring-UG
 venue: "Rensselear Polytechnic Institute, Department of Mechanical Aerospace, and Nuclear Engineering"
-date: 2018, Spring & Summer
+date: 2018-01-01
 location: "Troy, New York"
 ---
 

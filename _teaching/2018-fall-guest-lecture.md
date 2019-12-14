@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecture"
 permalink: /teaching/2018-fall-guest-lecture
 venue: "Rensselear Polytechnic Institute, Department of Biomedical Engineering"
-date: 2018, Fall
+date: 2018-09-01
 location: "Troy, New York"
 ---
 
