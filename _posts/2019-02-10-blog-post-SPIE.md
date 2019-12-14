@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 Dr Xavier Intes presented the poster by Yuanyuan Gao in SPIE
-![Figure 1-1](http://yuanyuangao216.github.io/images/conf.png）
+Oxy-hemoglobin level before and after brain stimulation<br/><img src='/images/boxplot_study_1.png'>
