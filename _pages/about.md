@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuanyuan Gao's home on the web!
+Hi! I am Yuanyuan Gao, a PhD candidate in Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
