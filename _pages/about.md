@@ -32,3 +32,10 @@ Teaching Interests
 * Laboratory studies
   * Neuroimaging and neurofeedback devices.
   * Machine learning and deep learning in biomedical data mining, and bioinformatics (coding intense)
+
+Lab Links
+======
+
+[CeMSIM](https://cemsim.rpi.edu/people/grads)
+[Dr. Intes' lab](http://intes-lab.bme.rpi.edu/People.shtml)
+[Dr. Cavuoto's lab](https://sites.google.com/site/loracavuoto/ )
