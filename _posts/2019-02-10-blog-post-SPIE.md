@@ -8,4 +8,5 @@ tags:
   - category2
 ---
 Dr Xavier Intes presented the poster by Yuanyuan Gao in SPIE
-![](images/conf.png?raw=true)
+
+/Users/gaoyuanyuan/Documents/Personal_page/yuanyuangao216.github.io/images/conf.png
