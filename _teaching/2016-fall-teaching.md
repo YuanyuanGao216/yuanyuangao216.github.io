@@ -8,5 +8,5 @@ date: 2016-09-01
 location: "Troy, New York"
 ---
 
-I delivered TA sections to classes up to 50 students using traditional lecture notes and Power Point presentations.
+I delivered TA sections to classes up to 50 students using traditional lecture notes and Power Point presentations.[Download TA session slides here](http://yuanyuangao216.github.io/files/MINITAB-tutorial.pdf)
 
