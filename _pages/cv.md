@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://yuanyuangao216.github.io/files/Resume_Yuanyuan.pdf)
+[Download CV here](http://yuanyuangao216.github.io/files/Resume_industry.pdf)
 --------------------
 
 Education
