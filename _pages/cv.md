@@ -11,9 +11,8 @@ redirect_from:
 
 Download CV and Resume
 ======
-[Download Resume here](http://yuanyuangao216.github.io/files/Resume_industry.pdf) 
-
-[Download CV here](http://yuanyuangao216.github.io/files/CV_acdemic.pdf)
+* [Download Resume here](http://yuanyuangao216.github.io/files/Resume_industry.pdf) 
+* [Download CV here](http://yuanyuangao216.github.io/files/CV_acdemic.pdf)
 
 Education
 ======
