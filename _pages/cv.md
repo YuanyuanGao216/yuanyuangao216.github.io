@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 [Download Resume here](http://yuanyuangao216.github.io/files/Resume_industry.pdf) 
-
 --------------------
 [Download CV here](http://yuanyuangao216.github.io/files/CV_acdemic.pdf)
 --------------------
+
 Education
 ======
 * B.S. in Aircraft Environment and Life Security Engineering, Beihang University, 2010
