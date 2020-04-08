@@ -19,7 +19,7 @@ Education
 * B.S. in Aircraft Environment and Life Security Engineering, Beihang University, 2010
 * M.S. in Mechanical Engineering, Beihang University, 2013
 * Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2020 (expected)
-Research experience
+Research Experience
 ======
 * 2015 – Present: Research Assistant
   * Rensselaer Polytechnic Institute
@@ -34,7 +34,7 @@ Research experience
   * Harvard Medical School
   * Duties included: Neuromodulation experiments
 
-Work experience
+Work Experience
 ======
 * Aug 2013 - June 2015: Motor design engineer 
   * SAIC MOTOR (Shanghai)
@@ -50,6 +50,10 @@ Skills
 * Hardware: fNIRS spectrometers; Trans-cranial electrical stimulation device; Laparoscopic skill trainer;
 * Others: Microsoft Office Series, Latex.
 
+Certification
+======
+* Introduction to transcranial direct current stimulation (offline) by Harvard (03/2016); 
+* Databases and SQL for Data Science (online) by IBM (03/2020)
 
 Publications
 ======

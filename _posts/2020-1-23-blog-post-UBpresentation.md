@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Jessica presented the poster by Yuanyuan Gao in SPIE<br/><img src='/images/ub-conference.jpeg'>
+Jessica presented the poster by Yuanyuan Gao in UB med student poster session<br/><img src='/images/ub-conference.jpeg'>
