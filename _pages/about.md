@@ -12,12 +12,12 @@ Hi! I am Yuanyuan Gao, a PhD candidate in Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
-* Neuroimaging
-* functional near-infrared spectroscopy (fNIRS)
+* Bioimaging and Neuroimaging Data Processing
+* functional Near-Infrared Spectroscopy (fNIRS)
 * Neuromodulation
-* Deep learning
-* Statistical analysis
-* Human motor learning
+* Deep Learning
+* Statistical Analysis and Data Analysis
+* Human Motor Learning
 
 Teaching Interests
 ======
@@ -34,6 +34,12 @@ Teaching Interests
 * Laboratory studies
   * Neuroimaging and neurofeedback devices.
   * Machine learning and deep learning in biomedical data mining, and bioinformatics (coding intense)
+
+Links
+======
+* [LinkedIn](https://www.linkedin.com/in/yuanyuan-gao-21ba02182/)
+* [ResearchGate](https://www.researchgate.net/profile/Yuanyuan_Gao26)
+* [GitHub](https://github.com/YuanyuanGao216)
 
 Lab Links
 ======
