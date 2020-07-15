@@ -18,21 +18,23 @@ Education
 ======
 * B.S. in Aircraft Environment and Life Security Engineering, Beihang University, 2010
 * M.S. in Mechanical Engineering, Beihang University, 2013
-* Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2020 (expected)
+* Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2020
+
 Research Experience
 ======
-* 2015 – Present: Research Assistant
+* 2015 – 2020: Research Assistant
   * Rensselaer Polytechnic Institute
-  * Supervisor: Professor Suvranu De
+  * Supervisors: Professor Suvranu De and Professor Xavier Intes
 
 * 2018 - 2019: Visiting scholar
   * University of Buffalo 
   * Duties included: Neuromodulation and neuroimaging experiments
-  * Supervisor: Professor Lora Cavuoto and Dr. Steven Schwaitzberg
+  * Supervisors: Professor Lora Cavuoto and Dr. Steven Schwaitzberg
 
 * 2016: Researcher
   * Harvard Medical School
   * Duties included: Neuromodulation experiments
+  * Supervisors: Professor Alvaro Pascual-Leone and Dr. Emiliano Santarnecchi
 
 Work Experience
 ======
