@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Certified in SQL language by IBM<br/><img src='/images/Coursera SQL.pdf'>
+Certified in SQL language by IBM<br/><img src='/images/Coursera_SQL.jpg'>
