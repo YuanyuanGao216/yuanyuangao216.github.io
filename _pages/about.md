@@ -12,7 +12,7 @@ Hi! I am Yuanyuan Gao, a PhD graduated from Rensselaer Polytechnic Institute.
 
 Research Interests
 ======
-* Bioimaging and Neuroimaging Data Processing and Analysis
+* BioImaging and NeuroImaging Data Processing and Analysis
 * Machine/Deep Learning
 * Statistical Analysis and Data Science
 * functional Near-Infrared Spectroscopy (fNIRS)
